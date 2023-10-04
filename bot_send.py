@@ -25,7 +25,7 @@ def send_data_to_telegram():
 
 while True:
     send_data_to_telegram()
-    time.sleep(300)
+    time.sleep(5)
 
 
 
